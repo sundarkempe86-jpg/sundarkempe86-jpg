@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Sundar Raj Kempe</h1>
+<h1 align="center">👋 Hi, I'm Sundar Raj </h1>
 <h3 align="center">💻 4th-year Computer Science Engineering Student | AI & Full-Stack Developer from India 🇮🇳</h3>
 
 ---
